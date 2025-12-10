@@ -8,7 +8,7 @@ export default function Home() {
         <header className="mb-14">
           <div className="flex items-baseline gap-4 mb-8">
             <h1 className="text-5xl font-bold text-black tracking-tight">
-              F
+              FFFF
             </h1>
             <div className="text-gray-500 text-lg">
               Charles&nbsp;Holbrow Tuesdays&nbsp;6-8pm
